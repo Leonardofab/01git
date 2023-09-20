@@ -1,0 +1,38 @@
+*{
+    /* Use "*" para aplicar comandos em
+    todos os elementos do arquivo. */
+    margin: 0;
+    padding: 0;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+.container{
+    max-width: 800px;
+    /* text-align: center; */
+    margin: auto;
+
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    color: blue;
+    padding:10px;
+}
+.title{
+    font-size: 26px;
+}
+section{
+    color: white;
+}
+.formContainer{
+    float: left;
+    max-width: 500px;
+}
